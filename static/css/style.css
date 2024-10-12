@@ -141,8 +141,8 @@ body {
 }
 
 .btn-delete {
-    color: #fff;
-    background: #E84610;
+    color: #fff !important;
+    background: #E84610 !important;
 }
 
 .btn-like:hover,
